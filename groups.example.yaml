@@ -1,0 +1,20 @@
+settings:
+  ollama_model: gemma4:12b-mlx
+  ollama_url: http://localhost:11434
+
+groups:
+  AI:
+    icon: 🤖
+    apps:
+      - Claude
+      - ChatGPT
+  Dev:
+    icon: 💻
+    apps:
+      - Termius
+      - TablePlus
+  Office:
+    icon: 📄
+    apps:
+      - Microsoft Word
+      - Microsoft Excel

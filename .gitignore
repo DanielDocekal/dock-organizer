@@ -1,0 +1,6 @@
+.venv/
+backups/
+__pycache__/
+.claude/
+Stacks/
+groups.yaml
